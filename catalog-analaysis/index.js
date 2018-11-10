@@ -5,7 +5,7 @@
 const rp = require('request-promise')
 
 const api_key = 'your-api-key'
-const country_code = 'IT' // the country code you want to analyse
+const country_code = 'GB' // the country code you want to analyse
 const product_ean = '3175681126213'
 
 rp({
