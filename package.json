@@ -1,0 +1,27 @@
+{
+  "name": "api-v1-examples-node",
+  "version": "1.0.0",
+  "description": "Pricefy API v1 examples in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pricefy/api-v1-examples-node.git"
+  },
+  "keywords": [
+    "pricefy",
+    "api",
+    "node"
+  ],
+  "author": "fdammassa@pricefy.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pricefy/api-v1-examples-node/issues"
+  },
+  "homepage": "https://github.com/pricefy/api-v1-examples-node#readme",
+  "dependencies": {
+    "request-promise": "^4.2.2"
+  }
+}
